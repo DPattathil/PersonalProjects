@@ -1,0 +1,18 @@
+okay this is a text file to remind you of things for bash
+
+you change directories with cd (parameters)
+cd .. will move you up a folder
+cd ~ will bring you all the way to the top
+pwd to check path
+mkdir rmdir
+touch (filename) to create
+nano (filename) to edit the file
+less (filename) to view it
+when in these different things (especially less) use ":q" to exit
+mv to move
+cp to copy
+in nano you use ctrl+letters to do any commands
+ctrl+o = save
+ctrl+x = exit
+also dont forget to use tab to autofill stuff, makes things a lot easier
+this was fun
